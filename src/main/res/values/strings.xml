@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Check Boxes</string>
+    <string name="PlacesToEat1">Frankie Bunz</string>
+    <string name="PlacesToEat2">Minneos</string>
+    <string name="PlacesToEat3">China Palace</string>
+    <string name="FavPlace">Pick your favorite place to eat:</string>
+    <string name="BtnView">Submit</string>
+</resources>
